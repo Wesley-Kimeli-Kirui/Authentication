@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AuthenAuthor.Migrations
 {
     [DbContext(typeof(AuthDbContext))]
-    [Migration("20230905042247_cretedTables")]
-    partial class cretedTables
+    [Migration("20230905122205_initialCreate")]
+    partial class initialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

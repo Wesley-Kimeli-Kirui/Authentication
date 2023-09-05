@@ -75,3 +75,12 @@ D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\Microsoft.EntityFramewo
 D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\System.CodeDom.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\PInvoke.BCrypt.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\PInvoke.Kernel32.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\PInvoke.NCrypt.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\PInvoke.Windows.Core.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\JWT.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\The Jitu\Authentication\AuthenAuthor\bin\Debug\net7.0\Newtonsoft.Json.dll

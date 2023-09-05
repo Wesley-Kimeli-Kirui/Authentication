@@ -1,5 +1,8 @@
 using AuthenAuthor.Data;
+using AuthenAuthor.Services;
+using AuthenAuthor.Services.IService;
 using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +15,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AuthDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection")));
 
+// Service for Dependency Injection
+builder.Services.AddScoped<IUserInterface, UserService>();
+// Auto Mapper Configurations
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

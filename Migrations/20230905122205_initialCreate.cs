@@ -5,7 +5,7 @@
 namespace AuthenAuthor.Migrations
 {
     /// <inheritdoc />
-    public partial class cretedTables : Migration
+    public partial class initialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
